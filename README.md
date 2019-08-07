@@ -34,4 +34,4 @@ __Files__
 * test_{transaction, identity}.csv - the test set (you must predict the isFraud value for these observations)
 * sample_submission.csv - a sample submission file in the correct format
 
-(Download All) [https://www.kaggle.com/c/14242/download-all]
+[Download All](https://www.kaggle.com/c/14242/download-all)
